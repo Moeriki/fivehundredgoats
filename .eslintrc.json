@@ -1,0 +1,14 @@
+{
+  "extends": "noise",
+  "root": true,
+  "overrides": [
+    {
+      "files": "**/*.{ts,tsx}",
+      "extends": "noise-ts"
+    },
+    {
+      "files": "**/*.tsx",
+      "extends": "noise-react"
+    }
+  ]
+}
