@@ -1,0 +1,6 @@
+{
+  "name": "fivehundredgoats",
+  "region": "us-east-1",
+  "accelerated": true,
+  "url": "https://fivehundredgoats.s3.amazonaws.com"
+}
